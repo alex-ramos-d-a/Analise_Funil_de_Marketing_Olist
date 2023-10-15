@@ -4,7 +4,8 @@ E uma plataforma de vendas de produtos, no qual lojistas ao anunciarem na olist,
  ### Todos os arquivos da 2° parte da analise da pizzaria estão aqui, entre eles:
 
 ### A analise
-![Foto Analise](https://github.com/alex-ramos-d-a/Analise_Funil_de_Marketing_Olist/assets/115717016/c9a2e636-4405-4ba5-8838-32c17b532788)
+![Foto Analise](https://github.com/alex-ramos-d-a/Analise_Funil_de_Marketing_Olist/assets/115717016/391efdcd-60e6-4317-b981-eb07e747946b)
+
 
 
 
