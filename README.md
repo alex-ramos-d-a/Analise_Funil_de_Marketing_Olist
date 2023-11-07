@@ -6,6 +6,8 @@ E uma plataforma de vendas de produtos, no qual lojistas ao anunciarem na olist,
 ### A analise
 ![Foto Analise](https://github.com/alex-ramos-d-a/Analise_Funil_de_Marketing_Olist/assets/115717016/391efdcd-60e6-4317-b981-eb07e747946b)
 
+### O dashboard
+![Dashboard](https://github.com/alex-ramos-d-a/Analise_Funil_de_Marketing_Olist/assets/115717016/ced72f0a-d9af-44f8-988a-7f7516cff44d)
 
 
 
