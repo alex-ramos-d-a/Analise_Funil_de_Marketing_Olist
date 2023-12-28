@@ -1,7 +1,7 @@
 # Visão geral 
 E uma plataforma de vendas de produtos, no qual lojistas ao anunciarem na olist, terão seus produtos apresentados em diversos outros sites e-commerce como mercado livre, casas Bahia... Além diversos outros beneficios.
 
- ### Todos os arquivos da 2° parte da analise da pizzaria estão aqui, entre eles:
+ ### Todos os arquivos da Analise do funil de marketing da olist estão aqui, entre eles:
 
 ### A analise
 ![Foto Analise](https://github.com/alex-ramos-d-a/Analise_Funil_de_Marketing_Olist/assets/115717016/391efdcd-60e6-4317-b981-eb07e747946b)
